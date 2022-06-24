@@ -1,10 +1,4 @@
-# Welcome to MyDocs
-
-
-
-
-
-# Wiki
+# Start
 
 !!! info "About this Wiki" 
     Herzlich Willkommen! 
@@ -14,8 +8,8 @@
 [[Wiki FAQ]]
 
 # Fundamentals
-[[§§ 3D Fundamentals]]  #Polygon #Modeling #Sculpting #UVs #Texturing #Shading #Lighting #Rendering  #Animation #Rigging #Camera 
-[[§§ Animation Fundamentals]] #Animation #12Principles 
+[3D Fundamentals](\3D-Fundamentals)  #Polygon #Modeling #Sculpting #UVs #Texturing #Shading #Lighting #Rendering  #Animation #Rigging #Camera 
+[[Animation Fundamentals]] #Animation #12Principles 
 [[§§ Art Fundamentals]] #ColorTheory #Light #Shadow #Form #Composition #Perspective #LineDrawing 
 [[§§ Design Fundamentals]] #Typographie #Layout #GestaltPrinciples
 [[§§ Digital Painting]] #DigitalPainting 

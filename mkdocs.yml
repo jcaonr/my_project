@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: XYZ Garden
 theme: 
   name: material
   
@@ -16,8 +16,6 @@ theme:
         name: Switch to light mode
  
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
     - navigation.sections
     - navigation.indexes
 
@@ -39,3 +37,11 @@ extra_css:
 plugins:
   - search
   - autolinks
+  - roamlinks 
+
+nav:
+  - Home:
+    - index.md
+  - 3D-Fundamentals:
+    - 3D-Fundamentals/index.md
+    
